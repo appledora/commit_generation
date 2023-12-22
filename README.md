@@ -21,6 +21,7 @@ The repository is structured as follows:
 ├── EDA.ipynb
 |── evaluators
 │   ├── bleu.py
+|   └── rouge.py
 ├── README.md
 ├── seq2seq
 │   └── Seq2Seq.ipynb
