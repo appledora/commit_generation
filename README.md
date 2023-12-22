@@ -1,6 +1,12 @@
 # Automatic Generation of Git Commit messages from Changes in Code
 This repository contains the code and outputs for the `CS505: Natual Language Processing` course project. The objective of this work is to explore the performance of different machine learning models in generating commit messages from changes in code.
 
+# Requirements
+```
+pip install nltk==3.6.2 scipy==1.5.2 pandas==1.1.3 krippendorff==0.4.0 scikit-learn==0.24.1 sumeval==0.2.2 sacrebleu==1.5.1
+pip install sentencepiece==0.1.95 transformers==4.8.2
+```
+
 ## Dataset
 The dataset used for this project is the [NNGen Dataset]() which contains  .... 
 
