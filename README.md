@@ -42,11 +42,12 @@ The repository is structured as follows:
 ## Results
 The results of the project are summarized in the following table:
 
-| Model             | BLEU Score | ROUGE Score |
-| ----------------- | ---------- | ----------- |
-| Baseline          | 0.000      | 0.000       |
-| Seq2Seq           | 0.000      | 0.000       |
-| Transfer Learning | 0.000      | 0.000       |
+|                          | **BLEU-4** | **Rouge-L** |
+|--------------------------|------------|-------------|
+| **Baseline**       | 16.41      | 26.93       |
+| **Seq2Seq**              |            |             |
+| **Transfer Learning**    | 11.77      | 15          |
+
 
 ## Authors
 - [Nazia Tasnim](appledora.github.io)
