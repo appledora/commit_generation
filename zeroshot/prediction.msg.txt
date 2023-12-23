@@ -1,0 +1,2521 @@
+add 2.2.1 to changelog
+update changelog for 0.9.3
+add missing file mode
+remove unused property
+add missing file mode
+fix typo in sample.ts.0.dump
+add version to engine.io-client
+exclude the build directory for tgz
+remove player from superview
+fix cursortostBulkcursorAdaptor bug
+fix minor typo in readme
+fix pom xml syntax
+update version attribute
+update h2o web bower
+fix typo in javadoc
+add logo logo
+add a new build directory to gitignore
+fix lint errors
+fix typo in migration index.asciidoc
+add snapshot to version string
+add missing comment
+update launcher binary files
+add missing class
+fix java JDK typo
+fix the activity title
+add missing file mode
+fix exec2 tests
+fix typo in testenum
+remove temptest from mmm
+add missing file mode
+add missing changelog entry
+add missing file mode
+fix the pom xml tag
+add version to engine.io-client
+fix bug in docking station
+add build.gradle for travis
+update travis manifest with latest version
+add marmor to bigbluebutton
+add differ to binary files
+add missing newline
+fix layout xml in compose message
+remove newline from jar diff
+add missing file mode
+add missing properties
+add missing layout attributes
+add storm 827 to changelog
+add a note about library core only
+fix version number
+add release command to upload
+fix migration command
+add s4 image to readme
+fix typo in travis.yml
+fix bug in pimage cloneable
+fix error in deb init
+fix typo in antlr4 recognizer
+update build.gradle to reflect new version
+fix some warnings
+add missing newline at the end of the file
+fix build.gradle documentation
+fix changelog entry for 1.1.0
+add a missing file mode
+fix key press for solo
+fix typo in neWS.txt
+fix build task
+fix pom xml
+add missing file mode
+add missing file mode
+add missing newline at the end of file
+add missing file mode
+remove unneeded newline
+fix flyway tag
+fix default debuglevel
+fix changelog entry for 0.11.0
+cancel all pending requests
+fix keyguard password view layout
+add imageview to nux_fragment_welcome_sign_in
+fix autodeploy annotation
+fix version text
+fix typo in net_sqlcipher_database_sqlitedatabase.cpp
+fix pom xml syntax
+fix changelog entry for 1.0.3
+remove android version from travis build
+fix quicktime binary files
+remove unneeded newline
+add jboss application server to process manager pom
+add missing pom element
+fix svn urls for new branches
+fix changelog entry for 2.14.1
+add logall method to contextobservingclasseventservice
+add missing file
+fix crouton.java bug
+add missing todo items
+fix highlighting of text
+add android sdk to buckconfig.soy
+add missing file mode
+fix typo in spongecommon
+add missing file mode comment
+update the build.sh pom
+add missing file mode
+fix lint error
+remove extra build-tools from travis
+fix bug in scriptorfnscope mungefix bug in mmm
+fix pom xml
+fix typo in install-packages
+update build.gradle for 1.3.0
+fix typo in deleted file mode list
+add missing file mode
+fix changelog entry for
+update build.gradle classpath
+add missing file mode
+fix sonatype password in gradle mmm
+fix lint error
+add missing file mode
+add comment to cpp comment
+add x86/libwebpbackport.so to the list
+add missing newlines
+add missing commit
+update travis.yml with new jdk options
+fix issue with trident topology
+fix checkstyle violation
+add missing labels
+fix new mode
+add missing file mode
+fix version number
+add differ <nl> to editdistancejoiner binary files
+fix incorrect migration
+add missing template
+add storm definition
+add warning to rct_export_module
+fix minor typo in readme
+update version.gradle for new api
+add notification type
+add a default task to createtestsuite
+add missing newline
+add missing newline
+add missing comment
+update version_code to 6
+add missing line
+fix some typos in the pom pom xml
+update language in travis.yml
+add jdk to travis language file
+remove extra whitespace
+fix patch number
+fix typo in pom.xml
+add missing module elements
+fix documentation for androidmanifest.xml
+add missing file mode
+add missing file extension
+remove changelog entries
+fix glm regularization test
+add newline to remote debugger
+update the prerelease version
+add modloader.basemodpr for client
+fix typo in quickfix
+add missing newline
+fix failing folding test
+add missing newline at the end of version file
+add language to travis.yml
+add missing file mode
+initialize the datainfo
+update androidmanifest.xml with app_name and apptheme
+add missing file mode
+add missing file mode
+fix lint error
+fix typo in remoteconnection.java
+add missing words
+add storm 572 to changelog
+add storm 533 to changelog
+add storm-421 to changelog
+add missing file mode
+fix typo in guava-tests
+fix failing test
+fix typo in gitignore
+fix a bug in the windowframe.java
+add missing lines
+add test for
+add missing newline
+fix checkstyle paragraph
+add hpp to servermain.cpp
+add missing file mode
+remove extra whitespace
+update version numbers
+add missing tag
+fix indentation for consistency
+update oryx run.sh instructions
+add missing file mode
+fix pom xml for reactor
+add pom to community
+add missing file mode
+fix doublesided check
+update proguard config
+add a link to the breadcrumb icon
+fix version number
+add missing words
+update yuicompressor.yicf
+fix bug in fieldnode.settype
+add missing file mode
+fix bug in titlepageindicator
+fix typo in travis.yml
+add workmate to readme
+update version information
+add jersey promotion profile
+fix failing test
+fix race condition in graphserviceimpl
+fix typo in node.java
+add missing file mode
+fix typo in readme
+fix typo in new file mode example
+add missing file mode
+remove unused gitignore
+add private template
+add new editor script
+add arrow to chat
+fix short buffer
+add missing build_package
+add missing word to list of binary files
+add jcenter to allprojects
+fix pom xml
+add missing commit
+fix typo in similarity index
+add missing file mode
+add missing file mode
+remove deadlock on restart
+add missing file mode
+fix typo in plannedextensions.txt
+add local_ldflags to android mmm
+fix gitutil.java for windows
+update binary files
+add missing file
+add android.permission.write_settings to manifest
+fix the pom xml
+add missing line break
+fix metric collection aspect
+update the list of files to include
+exclude files that are not needed
+remove unused file
+add build.xml for jdk
+add missing file mode
+fix the xml format
+fix typo in test/src/test/rxandroidarchitecture/utils
+add missing file mode
+add missing file mode
+fix layout xml in res
+fix typo in javalineindentprovider
+fix pom xml syntax
+add systeminfobutton to proguard
+fix typo in similarity index
+fix lint errors
+remove unused gitignore
+fix version in gradle.properties
+remove unneeded newline
+update changelog for storm
+fix getpass when running pycharm
+update ril constants
+fix the wrong command
+fix pom tag
+fix bug in modclassloader
+update instructions for eclipse configuration
+fix signing_in_activity layout
+add missing newline
+add missing class annotations
+add missing newline
+update version in ext
+update version for maven 2.8
+add diff image
+add android dependencies
+fix issue with h2o_hosts.py
+remove extra whitespace
+fix pom xml syntax
+add missing file mode
+fix changelog entry for 0.11.0
+remove unneeded newline
+add version to version.java
+add storm version to changelog
+add a ui item to the bottom of the window
+fix typo in similarity example
+fix failing test
+add missing license header
+add note about calligraphyconfig
+add tests for puppycrawl
+add missing import
+fix the pom xml
+fix memcached pom
+add missing gem names
+add missing file mode
+fix typo in umm
+fix portlet property names
+fix typo in deleted file mode list
+add missing newline
+update manifest to 1.0 1
+update install_fbthrift.sh instructions
+fix fragment_status.xml example
+add missing changes
+add missing commit
+fix runnerw.exe for windows
+update manifest to 1.0
+fix storm version in changelog
+add exit code to all the files
+fix typo in session config
+remove extraapps from the list of test properties
+fix a small typo
+add missing file mode
+add missing file mode
+add missing file mode
+add missing word
+remove gitignore from frontend theme
+fix typo in readme
+add missing file mode
+add missing file extension
+add note about jsr - 330
+add renderingcontext to mmm
+fix localpowermanager.useractivity() method
+fix the pom xml
+add null check to androidquery util
+fix scoringview warning
+add missing newline
+remove deleted file mode
+add missing plugin repositories
+update travis.yml with android version information
+fix changelog entry for 2.0.0 [ci skip]
+add missing file mode
+fix loadinglayoutproxy bug
+add default values for root editorconfig
+fix bug in pgraphicsandroid2d
+remove transition from css files
+fix typo in java source code
+fix typo in travis.yml
+add assettag to update table
+fix pom tag
+fix typo in test boundary timer
+exclude files that are not needed
+fix view colorlist
+fix typo in.gitignore
+fix pom xml
+add some more information to the desktop dialog
+add missing file mode
+update plugin list
+fix gitignore for gradle build
+update travis script
+fix jdk typo in travis.yml
+remove unused gitignore
+remove extra whitespace
+add missing file mode
+add missing file mode
+fix warning text
+fix typo in readme.textile
+add documentation to plugin list
+add missing file mode
+fix typo in similarity index
+add logo_small.gif to the list of supported file modes
+add missing file mode
+fix the xml indentation
+update changelog for jlanguagemetadata
+fix typo in astrid manifest
+add missing pom xml tag
+fix race condition in blockinghttpendpoint
+fix typo in basicbsoncallback
+add missing file mode
+add differ to binary files
+fix swift inputstream leak
+fix compiler warnings
+add css link to toc textile
+update travis language in mmm
+add missing image
+fix error in audio system.cpp
+exclude classes in build-module.gradle
+fix typo in comment
+add missing file mode
+fix coding standards in python
+fix portlet styling
+add constructor for cameracontrol
+fix bug in highlevel function compressor
+add note about android-ui to deprecations
+fix error when texture is invalid
+add missing changes
+add poi_internet_access_service to the list
+fix log4j output
+add missing file mode
+add missing file mode
+add missing file mode
+update binary files
+add missing file mode
+update travis.yml with new options
+fix typo in targetscope
+add missing components
+fix typo in build.xml
+fix apktool target
+add missing newline
+fix bug in pjoe
+fix lint error
+remove extra newline at the end of file
+fix the style of the rating element
+add missing file mode
+fix failing test
+fix layout example
+update bundle description
+add support for posix capabilities
+fix documentation for windowmanager
+fix typo in similarity index
+update build.xml with delete dir
+fix version number for spock-grails
+remove extra whitespace
+add a link to the rss icon
+add missing diff to jme3 binary files
+add missing mode comment
+add missing file mode
+update systemui.mk for new android
+add note about cross join syntax
+fix doc block
+add missing newline
+fix storm version in changelog
+add link to download jar in pdex
+add missing file mode
+add missing file mode
+fix typo in graylog2-rest-client
+add missing word to help text
+add missing newline
+fix typo in bundle description
+add javadoc jar to build task
+add eventbus.executorservice constant
+fix jetty log levels
+fix doc for findoperationspecification
+add service names for android context
+update travis config
+fix checkstyle tests
+update changelog for storm-613
+add empty line to authenticator screen
+fix lint errors
+fix yamlutil.getkey() for jetbrains yaml plugin
+add missing pom tag
+add missing package.json
+fix keydown on mobile
+add picker to shortcuts
+fix crash when cropping surface textures
+remove unneeded newline
+add missing newline at end of file
+fix documentation for action.view_user
+fix bug in numberpicker
+fix bug in gesture overlay view
+remove extra build tools
+fix formatting doc for set
+update version_name to 1.0.13
+fix plugin name in build.gradle
+fix binary files
+fix the pom xml
+fix typo in action bar layout xml
+add missing file mode
+reset density to 0
+fix gitignore comment
+add localnotification xml tag
+add missing words
+fix issue with serviced config
+add missing module
+add missing newline
+update changelog for 1.10.4
+fix typo in readme
+update dashboard configuration
+fix typo in databaseversion.java
+fix small typo
+fix minor issue in jasper compiler
+update gitignore with project path
+add missing change
+update travis language in mmm
+fix typo in similarity index
+fix typo in twowayview layoutmanager
+fix webview cleanup
+add project xml for the groovy project
+add sshdeploy example
+update install instructions
+fix preprocessingfx_command error
+remove request future
+update ext to match new format
+fix new mode
+add missing file mode
+update example files
+fix build.gradle for linux
+fix version number
+add missing line break
+add info to databaseversion
+add missing file mode
+remove previous build
+fix lint errors
+fix error in get_mobile_data_interface
+add missing file mode
+fix minitez tests
+add config properties
+add tag to audio attributes
+fix race condition in spring looper factory
+update version_name to 2.2.0
+fix typo in xmlcatalogconfigurable
+fix error in exoplayer variant.java
+add example for cucumber cucumber
+add i18n to plugin jar
+fix typo in inputcovariant
+add note about shareproject
+fix changelog entry for 0.11.0
+update travis.yml before install
+add test script for bash
+add doclint annotation to profile
+fix grammar error in java.lang.invoke
+add build script to travis.yml
+fix version in build.gradle
+fix version in mmm
+add missing changelog entry
+add xsoup to pom
+fix lint error
+update the version number for gradle
+fix typo in moco releasenotes.md
+fix typo in mmm
+add application property to appmodule
+fix failing test
+add link to sonar grammar
+add missing line
+fix pom tag
+fix gitignore for project/settings
+fix typo in similarity index 100%
+fix broken link in showhidesidebars.html
+add missing commit
+fix minor typo in build.gradle
+remove version from build script
+add missing file mode
+add missing file mode
+remove unneeded newline
+fix mcp_merge documentation
+add missing words
+fix word2vec initialization
+add comment for nokogiri_wrap_cstr
+add soundname to forgehooksclient
+add missing newline
+update buildtoolsversion in gradle project
+fix lint error
+add missing commit
+fix typo in chunk_vert.glsl documentation
+fix race condition in statefulpersistencecontext
+remove outdated files
+fix osgi.enabled property
+fix typo in gradle plugin
+add missing buttons to the alert message
+add table for muc member
+update version information
+remove obsolete gitignore
+fix typo in readme
+fix jme3 build path
+add missing changelog
+add missing file mode
+update version_name to 1.1.6
+fix typo in resourcemanager
+fix some typos
+fix storm version in changelog
+fix nopass test
+remove extra newline at the end of the pom
+update travis language in mmm
+add mongolastic to asciidoc
+fix typo in manual readme
+update jlanguagetool properties
+fix hashcode for liquidstack
+add portal properties
+add separator to branch toolbar
+fix changelog entry for 0.11.0 [ci skip]
+add appleddsym for apple cxx platform
+update keyboard axis list
+fix bug in coyoteadapter
+fix typo in neo4j javadoc
+fix lint errors
+add missing changelog entry
+fix documentation for spring dataflowjob
+fix typo in scrollviewproptypes
+fix typo in _analyze request
+fix empty profile element in pom.xml
+add missing test properties
+fix travis config
+fix failing test
+add missing word to merge command
+update travis.yml with jdk information
+fix lint error
+fix ansj_lucene5_plugin pom xml tag
+fix typo in similarity index
+add missing newline
+add missing newline
+add missing line break
+fix bug in linkproperties
+fix syntax error
+update the example
+fix failing test
+fix icon for object
+add missing file mode
+add clean task
+add missing tests
+fix doc for session constants
+fix typo in defaulttransaction.java
+fix changelog entry for 0.9.2
+fix some typos
+add style for `help.stl`
+fix build.gradle example
+add missing newline
+remove trailing newline
+add missing file mode for image deleted files
+add missing component to fieldstatistics
+add missing word to removed list
+add missing file mode
+update travis.yml with license info
+fix version in gradle.properties
+fix typo in travis notifications
+fix binary files
+add missing file mode
+add default_process_types to release
+add buildplugin to build.gradle
+update version info
+add missing file mode
+add missing newline
+fix error in LFWdatafetcher
+add missing word to error message
+update android default config
+add missing file mode
+fix stack element in shouldfilterstackelement
+update build instructions
+add a note about the new file mode
+add missing newline
+update the file mode for travis
+fix issue with onetoonecallpanel
+fix pom xml
+add missing group
+add missing file mode
+remove unnecessary gitignore
+fix the xml indentation
+fix marble radius and segments
+fix scissor and stencil clipping
+remove unneeded newline
+fix typo in sugarrecord.java
+fix pom xml syntax
+add a note about once
+fix typo in spongecommon
+fix some formatting issues
+fix lint errors
+add missing hints section
+update travis.yml with new options
+fix failing test
+add license header
+fix warnings for ant compiler
+fix minor bug in class node
+fix lint error
+fix pom xml syntax
+fix assetmanager class
+exclude files that are not needed
+exclude the coverage plugin from the jar
+fix lint error
+fix the pom xml for the new master
+add maven repo to allprojects
+add zeppelin to mmm
+fix apple platform check
+add missing file mode
+fix changelog entry for 0.11.0 [ci skip]
+add missing constants
+fix flaky test
+fix typo in similarity index
+fix package parsing bug
+fix error in mmm
+add missing file mode
+add cayhorstmann to contributors
+fix binary files
+fix bug in webviewcore
+fix typo in circle.yml
+update group properties
+fix lint error
+add differ to binary files
+add missing file mode
+update binary files
+fix checkstyle violation
+fix changelog entry for 0.11.0
+add missing spaces
+update the file mode
+fix lint error
+add missing words
+fix layout example
+add missing gif
+add missing file mode
+add missing line
+update opengrok.xml for mmm
+add missing pom tag
+update vagrant tachyon version
+fix typo in readme
+fix coyote java bug
+fix minor issue in tomcat
+add missing file mode
+add missing file mode
+remove extra whitespace
+add missing file mode
+update proguard target
+update version in project.ext
+add note about npm registry
+add settings metadata to service tracker list
+fix groovy version in java5 build
+fix typo in ideactions
+add missing properties to rctwebviewmanager
+add missing file mode
+fix jstorm-ui in mmm
+fix lint error
+exclude files that are not needed
+add snapshot dependency to pom
+add missing newline
+add missing line
+fix minor typo in phoneaccount.java
+add missing file mode
+fix typo in comment
+fix typo in deleted file mode description
+add missing bundle metadata
+fix gitignore message
+add keyboard layout for bluetooth
+add missing newline
+remove unnecessary file
+update travis.yml with new info
+fix incorrect test
+fix error in file_lock.cpp
+add missing newline
+add missing line breaks
+add missing newline at the end of version file
+add missing file mode
+add missing file mode
+fix checkstyle violation
+add missing diff
+fix typo in testdata/compiler/sourceinfo
+fix typo in bucket-selector-aggregation.asciidoc
+add test compile to build.gradle
+add missing changelog entry
+remove portal from test properties
+fix bug in simplepool
+fix new mode
+fix appcompatactivity crash
+fix error message in get_revision
+add missing java
+add missing newline
+fix max perm size in mmm pom. xml
+add missing file
+add missing newline
+add missing pom element
+exclude zrtp4j from the diff
+fix failing test
+fix changelog for storm-1590
+update the build instructions
+add missing newline
+fix small typo
+fix pom xml syntax
+add secure webhook
+fix the pom xml
+add missing changelog entry for storm-1720
+fix exception handling in defaultchannelhandlercontext
+fix activitystacksupervisor javadoc
+fix typo in notebookcapture.cpp
+add version to upload_files.cm
+fix bug in autodetectwithouttimeout
+add missing file mode
+fix config template
+add missing file mode
+fix pom xml
+add jsonlib json databind
+add missing pom tag
+add missing newline
+fix typo in accessibilityinjector
+fix pom xml
+fix typo in tutorial.md
+add a new renderscriptgl
+add jdk instructions
+fix lint issues
+update yuicompressor.yicf to 1.0c
+add android.xml to mmm
+fix typo in similarity index
+fix typo in spongecommon
+fix typo in h2o docs
+add missing commit to graylog2-rest-client
+fix javadoc error
+add missing word in readme
+update changelog for 1.8.2
+fix bug in titlebarwebview
+fix javadoc typo
+update properties for jlanguagetool
+add missing file mode
+fix closuremethodtest for python 3.7
+fix typo in travis.yml
+fix case insensitive comparison
+fix typo in readme
+add missing file mode
+add the right config
+add missing icu4jni classes
+add a badge to the drawer readme
+fix typo in localinspectiontool
+add jvms to pom pom xml
+fix viewpager bug
+update the gradle for the appp
+add missing file mode
+add build.xml for xlint
+add missing file mode
+fix robovm binary files
+fix issue with jiecao jiecao-1.1.1
+add missing file mode
+add more instructions to the upgrade instructions
+add missing file
+fix typo in coloredlistcellrenderer
+update version in gradle properties
+fix version number
+fix the pom xml
+remove extra whitespace
+fix typo in gitignore
+fix failing test
+add link to the programming guide
+update changelog for sonatype
+fix the xml for the robobinding pom
+add missing commit
+add missing words
+add missing file mode
+fix patch_args for python 3.7
+add documentation for h2oframe.strsplit
+fix lint error
+remove unneeded newline
+add missing word
+remove duplicate files
+add karma to build
+add missing commit to graylog2-rest-client
+add s3 pom to mmm a pom pom xml
+add missing word to readme.md
+add missing file mode
+add missing newline
+update binary files
+update languagetool pom xml
+fix issue with python 3.6
+fix pom tag
+update version in ext
+fix checkstyle violation
+fix itemactivity count
+update the chatroom in the chatroom
+exclude files that are not needed
+fix bug in ibox extendtoencompass method
+remove broadcast receiver
+fix open source
+add missing file mode
+update local documentation
+add snapshots to staging
+add missing binary file
+fix changelog entry for
+add secure branches to travis yml
+fix color mode for red and blue
+fix typo in python-formatter tests
+fix typo in newactiondialog
+release notes for 1.8.23
+update copyright header
+fix typo in gradle.properties
+fix typo in ternaryoperatorstest.groovy
+add a link to the navigation icon
+add missing file mode
+add storm version to changelog
+fix typo in xmlnsdescriptor
+fix changelog for 1.0.0
+add differ to binary files
+fix the SCM example
+update binary files
+fix case sensitive headers
+fix animation3d.update() for non-paused animations
+add missing newline
+fix failing test
+fix javadoc for jarresource
+add missing file
+update build.xml for new build
+fix crash in weexsdk
+fix process.hpp for win32
+add missing documentation links
+add missing newline
+fix broken link in bnd.bnd
+add task wrapper
+update proguard.cfg to match project target
+add missing table
+fix lint error
+add travis info to mmm a
+fix typo in comment
+add missing header
+fix error in iphone
+add userscreenexception to portal exception table
+add snapshot to version string
+fix typo in xxx
+fix animation bug
+fix local_src_files for rs_support
+fix transitionhelper.loadtransition bug
+add missing file mode
+remove obsolete gitignore
+remove unnecessary newline
+add missing file mode
+fix minor typo in hgtags
+add todo for
+fix the pom xml for the new version
+fix padding for portlet polls
+fix dommodeltreeview disposal
+update plugin description
+fix pom xml
+add missing file mode
+add missing file mode
+fix mindex for drm support info
+fix graphtablecell javadoc
+fix typo in gradle include list
+add missing constructor
+add missing file mode
+add missing commit
+fix typo in readme
+fix javadoc in ongoingstubbing
+fix shutdown flag
+dummy method for portletinstance
+fix error in skipelementvalue
+add missing file
+update application.mk documentation
+add secure branches to travis config
+add missing word
+fix binary files
+update version info
+fix build.xml for jdk 9
+add missing line
+add missing file
+remove junitvmwatcher from gitignore
+add google guice to the pom
+fix the problem with gradle distribution
+fix design bottom sheet dialog
+add missing file mode
+add singleton class
+fix dependencies in build.gradle
+fix typo in Deepwaterv3.java
+fix mattage xml in pom
+fix typo in spongecommon
+add note about Eclipse to readme
+add sans serif to the processing font
+add missing file mode
+fix aeron position limit
+fix binary files
+update license header
+fix typo in hostconfig.java
+add missing pom tag
+update binary files
+fix expressionutils.iserror() for non-primitive types
+close recent apps dialog
+add missing newline
+add snapshot to version string
+add missing include tags
+remove empty line from deleted file list
+fix typo in modelparameterschema
+fix pom xml syntax
+update gradle build instructions
+fix template name
+remove bilder from gitignore
+add missing imports
+fix typo in owncloud-android-library
+fix typo in plugin.yml
+add missing file
+add install instructions for cli
+fix typo in similarity index
+update changelog for 1.13.1
+fix typo in analysisuiscope
+update plugin description
+add missing file mode
+fix version in gradle.properties
+stop the papplet thread
+fix bug in webview.settitlegravity
+fix typo in gitignore
+add group to gradle.properties
+fix version number
+fix version backup in prerelease commit
+fix buildtoolsversion in build.gradle
+update build.xml with new javac options
+update manifest to include android.action.main
+remove the newline
+fix packagemanagerhosttestutils javadoc
+remove extra gitignore
+add javadoc for actionresponse
+add missing newline
+update binary files
+fix typo in bundle description
+add sketchrenderer to svg
+add a note about vcvars32
+fix pom tag
+fix pom xml
+add missing file mode
+fix error in file mode
+fix documentation for sql security
+fix reflections artifact version in pom xml
+fix typo in ldap pom
+add link to awesome java
+update install instructions for ubuntu
+add missing file
+add missing newline
+update binary files
+fix memory leak in egl
+fix incorrect job name in build instructions
+fix failing test
+fix connection pane
+fix jmx comment
+fix documentation for airpaclient
+update version constants
+fix bug in baseadapterhelper
+fix overflow in inotify
+fix typo in ignition-location
+fix typo in h2o docs
+fix travis language in mmm
+update androidmanifest.xml with new sdk version
+add missing file mode
+fix a typo in the build.gradle example
+fix doc for searchapiquery
+fix volume preference on activity stop
+fix mhsr to match what srsr
+fix the pom xml syntax
+add note about hikaricp changes
+add missing file mode
+add missing file mode
+remove extra whitespace
+fix typo in binary files
+add missing newline
+fix error in openhabhome rule demo
+add logo for hive
+add a missing period
+add note about duplicate path env vars
+add missing files
+add more people to the list of people
+update file mode
+fix failing test
+fix typo in jetty jetty description
+add missing file mode
+fix documentation links
+fix indentation for trycatchfinally
+add newline to import statements
+add missing comma
+add note about arch to deb
+add missing binary file
+fix typo in jira
+add missing init comment
+add missing imports
+add instructions to install the module into python
+update version_name to 1.1.15
+fix typo in workspace.xml
+add a note to the build instructions
+fix buildcraft bug
+add missing file mode
+fix applicationinfo clarification
+add a log message for artifactory
+add url method to request
+fix layout for nodes
+add missing newline
+fix the include tag in the pom pom
+fix bug in egl14.cpp
+add log_tag to soundpool
+add snapshot to version list
+add missing dependency to build.gradle
+add missing links
+fix version in hdrhistogram pom
+add a missing file mode
+fix typo in similarity index
+add a link to the lzma lzma file
+fix lint errors
+fix project target
+fix a typo in the cp definition
+remove extra whitespace
+remove unneeded newline
+fix changelog entry for 0.9.3 [ci skip]
+fix checkstyle violation
+fix the example
+fix lint errors
+add version to engine.io-client
+remove extra spaces
+fix changelog entry [ci skip]
+fix bug in abstractsyncablecontentprovider
+fix error in syncanyd
+add missing binary file
+remove unused dependencies
+add missing migration statement
+add missing module tag in jta pom
+fix typo in viewaction.java
+add twitter service to new file mode
+add missing file mode
+fix editpost crash
+fix typo in python debugger
+add missing newline
+fix issue with time format in messagelistfragment
+fix typo in ignition-location
+fix typo in bundle description
+add rule to openhabhome demo rule list
+fix typo in gradle project
+fix joda time tag for maven 1.0.0
+fix crash when using multiple views
+fix syntax error
+fix joq resolution
+fix identity transformation
+add missing newline
+fix mmm output for 161_164
+update version information
+fix lint errors
+fix build.gradle for android
+add missing spaces
+exclude files that are not needed
+fix typo in deleted file mode
+fix typo in binary files
+add changelog entry for 0.3.0
+fix typo in sample class
+add plugin version to mmm
+add missing newline
+add differ to binary files
+add image to file mode list
+add missing file mode
+fix gobject.unbind() in vapi
+add missing file mode
+remove jdk from travis.yml
+update build.gradle for 0.8.0
+fix typo in similarity index
+fix typo in gradle javadoc
+add dependencies to groovy build
+update travis config
+update version info
+fix previous minor version in gradle
+fix broken dtd in cpp b
+add missing require
+add missing dependencies to podspec
+add missing newline
+fix null pointer exception
+add missing file mode
+add missing file extension
+remove unneeded newline
+update binary files
+add storm 787 to changelog
+add missing newline
+add missing challenges
+add field-graphs to graylog2
+add missing binary file
+update gradle properties
+fix the pom xml syntax
+add theme to resrefvalue
+update build.gradle to 1.0.0
+fix typo in changelog
+fix binary files
+fix minor issue in languagetypeintegrationtest
+fix typo in curatortestbase
+update build.gradle to 1.1.1
+add missing markdown tags
+fix warning in rct_module_data
+fix minor typo in build.gradle
+fix travis config
+add missing word
+fix typo in reference.conf
+add missing file mode
+fix typo in fastarray.java
+add missing newline
+fix typo in test nonembedded portlet
+fix typo in similarity index
+add missing module in pom
+remove unnecessary newline
+add missing elements
+fix lint errors
+fix the pom xml
+fix the test failure
+fix bundle name in jenkins results parser
+add missing file mode
+fix lint error
+update the version for the maven plugin
+add support for uintbuffers in rajawali
+fix flakey processing
+update travis config
+add note about test-kit dependencies
+add missing file mode
+fix pom xml
+fix typo in mmm readme
+fix typo in repartitionertest
+fix apidoc instructions
+add a todo text
+add issue management url
+add missing @deprecated comment
+fix projectbuilder build
+fix documentation for surfacetexture
+remove outdated file
+add missing dependencies
+fix typo in event_timestamp_extractors.md
+remove unneeded newline
+add missing file mode
+add comment for custom port
+fix typo in lightweightmessageformatter.withoutsource
+add missing imports
+add missing file mode
+add verbose flag to test helper
+fix build target for ipr and iws
+add ycsb to readme
+add missing text
+add missing newline at the end of the file
+remove docking station registry
+fix typo in core/r_util/r_versions.hpp
+remove extra newline
+add missing dependencies
+add missing newline at the end of file
+add missing file mode
+fix typo in similarity index
+send changed notification to audioservice
+fix javadoc for streaminggzoindex
+add missing newline
+fix error in resolvepropertytest
+fix typo in wrapper script
+update build.gradle to 2.0
+remove unused build.xml file
+add missing file mode
+remove extra newline
+fix sass binary
+add missing class annotation
+update the list of commands to run prepare
+add a new target for the releaseplugin
+fix permission check in environmentclassloader
+add link to the link to the isis guide
+add missing line breaks
+add missing file mode
+fix typo in spongecommon
+add missing word in similarity index
+update build.gradle for new android version
+add shadowview to robolectric
+add missing mode comment
+add missing comma
+add missing imports
+fix textview bug
+add missing newline
+add missing elements
+add xml to the composite
+fix bug in textview
+add a comment to the list of package files
+add language label to travis.yml
+add missing newline
+fix nokogiri regex
+fix lint errors
+add spaces to spellchecker words
+add missing file mode
+remove catchpoint from registry
+add todo for 1.4.6
+fix spark version grid
+fix indentation in toolwindowcontentui
+add checkstyle module
+add missing line break
+add missing commit
+add note for 2.9.3
+fix cs error
+remove extra whitespace
+add minor changes to travis.yml
+add hasmessagelistener method to messagebusutil
+add missing file mode
+fix testloader exception
+add query language to community cypher index
+remove trailing newline
+add missing newline
+fix color overlay
+fix cs error
+add allprojects to gradle
+fix syntax in serialization.proto
+fix typo in alloc.java
+fix animation crash
+fix lint errors
+fix a typo in the gradle build script
+fix build.gradle documentation
+fix the issue with the resolveexpressionhandler
+update license header
+add missing line breaks
+fix environment closure resolution
+add task to exclude from docs
+fix typo in gdx-setup/resources/gitignore
+add nlm marble to languagetool ca
+add missing file mode
+fix typo in owncloud-android-library
+update gradle jvmargs
+update binary files
+fix typo in readme
+add metrics module
+add test for plugin add
+add missing file mode
+fix the pom xml syntax
+add example for nimbus.host
+add a note about bugfixing svn
+add snapshot to version string
+fix typo in broker.java
+fix typo in active sdk configuration
+add missing file
+update the instructions for installing dependencies
+update travis info
+remove trailing whitespace
+add missing file mode
+remove dead code
+add a nohup instruction to the graylog2ctl
+fix jslayoutjs annotations
+add test for buckd
+fix mistake in basicoutputbuffer
+fix consoleview action names
+fix a bug in the dlv debug process
+fix changelog entry for
+add missing dependencies
+fix typo in similarity index
+add toast for send aborted
+remove logo from the image list
+add missing file mode
+add css link to toc textile
+add missing links
+fix placeholder image
+update version info
+fix failing test
+fix config template for bigbluebutton
+add link to yammer in readme
+fix gitignore for ocaml buck tests
+add test for java_test
+fix mpr file in pom a
+remove unused files
+fix typo in jaxbmediacontent
+update shippable.yml with new language
+add missing file mode
+add missing file mode
+add missing entries in neWS.md
+add missing module
+remove obsolete gitignore
+add missing file mode
+add resources to routes documentation
+fix comment formatting
+fix pom xml tag
+fix minitez tests
+add missing enum value
+fix theme brow crash
+add missing newline
+fix lint error
+add missing font
+fix typo in build.gradle
+add missing file mode
+add missing file mode
+fix typo in sourcedebugextensionattribute
+fix javadoc error
+fix the error message for stream rules
+fix the pom xml
+add javadoc jar to build task
+fix typo in ignition-location
+add include statements
+fix a bug in the manager
+add missing components
+update the file mode
+fix display hardware
+update version info
+add missing file mode
+add missing properties
+fix build type for release
+update install instructions
+add email to travis notifications
+exclude the differ<nl> from the binary files
+add missing file
+add missing version
+fix typo in similarity index
+fix static mu
+fix glm_gbm_test_small_index
+add layout attributes
+add missing space
+fix example example
+fix new mode
+update travis language in mmm
+fix typo in bikepark updater similarity
+fix bug in subtitleview
+update doxia to 1.5
+fix typo in test description
+add missing pom dependencies
+add missing constants
+remove extra newline at the end of file
+add jersey to the pom
+fix typo in monochromebitmapsource
+fix comment about frame_index
+fix typo in portal properties comment
+add missing file mode
+fix documentation for hazelcast
+fix documentation for metrics consumer
+fix mathjax example
+update manifest for actionbarcolor
+update changelog for storm 1468
+update jetty module list in mmm a
+fix typo in spongecommon
+fix typo in pom.xml
+remove outdated changelog entry
+add missing word
+add missing file extension
+fix pom xml tag
+fix changelog entry for
+fix glenum type
+add default notification
+update travis language in mmm
+add missing file mode
+add missing binary file
+add missing file mode
+add rs_support.cpp for android
+fix h2o connection
+add missing file mode
+fix error in fmlrelaunchlog
+update keyboards to latest versions
+fix lint errors
+add missing file mode
+fix textview disable warning
+add java to sbt
+add missing file extension
+add missing file mode
+add missing imports
+fix some style issues
+fix typo in travis.yml
+add a note about loading triggers
+add missing gitignore comment
+add link to website
+fix checkstyle violation
+fix exception in threadwithattributes
+fix lint error
+fix typo in owncloud-android-library
+add dependency on javacompile
+fix sponge plugin meta
+add a line break to the error message
+fix typo in testbackuptoolha
+add missing newline
+fix cleanuppasses for jdk 9
+remove trailing newline
+add missing log priority
+fix secret filename generation
+fix touchfeedbackdrawable crash
+add note about object concatenation
+fix typo in testrun.java
+fix doc for delete 50_refresh
+update the changes list
+fix the xml syntax error
+add missing component to travis.yml
+remove outdated diff jar
+add missing text
+add changelog entry for 1.10.21
+fix packet size
+update version in project.ext
+add service to the http request
+add antlr 4 runtime to the file mode list
+fix pom xml
+add android script to travis.yml
+add missing file mode
+fix performance test in java 5
+fix typo in similarity index
+exclude files that are not needed
+fix typo in docs
+add missing newline
+fix warnings in relaxing-ng tests
+fix failing test
+fix version in gradle subprojects
+fix typo in basicpipelineconfigs.java
+fix error in relationshiptype holder creation
+fix race condition in packetreader
+add plugin for groovy
+add missing line breaks
+add javav header to zap.sh
+add missing module in mmm
+add checkstyle to pom pom.xml
+add sanitycheck task
+add support for ecma script 5
+fix wear example
+add missing file mode
+fix bug in processing.js
+fix parserinterpreter javadoc
+fix the pom xml for the kernel
+fix checkstyle violation
+update modeladaptorutil.java description
+fix typo in smartstepintoinlinedfunctionalexpression
+fix timeout for upgrade process
+add missing file mode
+add missing commit
+add missing file mode
+fix race condition in websocket server container
+add missing core constants
+add note about implementation details
+add missing include
+remove extra whitespace
+fix failing test
+add android schema to androidmanifest.xml
+fix broken link
+fix typo in.gitignore
+fix race condition in gzipoutputstream
+add missing line break
+add diff image to binary files
+fix typo in spongecommon
+fix dockbar open gradient
+fix bug in expandablelistview
+remove unnecessary version backup
+fix bug in face unlock view
+fix the binary file
+update travis language
+exclude files that are not needed
+add missing file mode
+add missing newline
+add storm version to changelog
+fix loading of fml/common
+fix typo in similarity index
+fix pom xml
+exclude jingle nodes from the diff
+add createrelation to nutdao
+update version.gradle for new jxmpp api
+fix antlr4 import
+add build instructions for android
+fix typo in h2o/r/mmm/h2o-r.gitignore
+fix typo in similarity index
+fix travis config
+fix javadoc typo
+add missing copyright header
+fix texteditingtarget onfindfromselection
+remove unused requirements
+fix version string
+fix error in processing helper
+fix pom xml
+add debug tag to android
+fix failing test
+update xcode project
+fix typo in h2o index.list
+fix memory leak in koushikdutta
+update version numbers
+add missing constants
+add diff image to binary files
+fix bug in remoteviews
+fix typo in test_metrics.properties
+fix detail_swatch example
+fix new mode
+fix typo in jdirectshow.dll
+add a background to the processing animation
+remove the differ <nl> from the binary files
+fix typo in companion object used in containing class
+fix distribution and zipstore paths
+add missing line break
+fix accessibility event types
+add missing newline
+add solution for hostname
+fix lint error
+update the pom xml
+fix typo in similarity index
+add missing word to travis language
+stop DHCP client on network state change
+add missing imports
+add missing file mode
+fix minor issue in journalarticle.ctl
+add a new project to the build.xml
+fix typo in similarity index
+add missing file mode
+add missing file mode
+remove unused todos
+update the pom to reflect the new jOOQ requirements
+fix the version range for the new model
+fix typo in travis.yml
+fix issue with find dialog
+update version in build.gradle
+add empty file comment
+add missing jooq declaration
+fix binary file name
+fix typo in jetcompletiontest.java
+add time range to index page
+add missing file mode
+fix version suffix for plugin
+remove duplicate files
+fix usermanager javadoc
+fix openfire permissions
+fix minor issue in groovyclassloader
+fix minor typo in readme.md
+add arm_funct_start for sysv
+fix dbinit.txt for hsqldb
+fix project name in gradle project
+fix assembly recipe
+remove unused proguard
+fix lint errors
+add javaee xml schemas to the xml schema list
+fix error in format.java
+add missing file mode
+update binary files
+add version to pom pom. xml
+remove old input from compiler list
+update thirdeye config
+remove unused android dependencies
+fix typo in java code comment
+fix xmlnode bug
+fix typo in gitignore
+fix bug in fieldnode.settype
+fix bug in _grailsbootstrap.groovy
+fix pulltorefresh bug
+add missing bundle metadata
+update the version number
+add missing newline
+fix typo in sentimentpipeline
+add android floating action button properties
+add missing dependencies
+add missing file mode
+add missing newline
+update osmand key alias
+fix typo in.mmm
+update build instructions
+add tachyon_vol to the list of tachyon volumes
+fix typo in deleted file mode description
+fix typo in quicknote similarity index
+add jetty-specific modules
+fix changelog entry for
+fix bundle name in error message
+add javadoc link to build.xml
+update kotlin to kunit
+fix gitignore for maven
+fix pycharm tests
+add missing clustersettings
+fix checkstyle violation
+add progress bar to nocache page
+fix renderproxy output buffer
+remove task.prepare.enabled from pr
+fix pom xml
+add missing file mode
+add missing file mode
+fix the pom xml
+fix error in project.info
+add missing dependencies
+fix typo in jira tests
+fix lint errors
+fix cacheclass javadoc
+fix typo in plugindescriptionfile
+add missing newline at the end of version file
+fix error message in yahoo!
+add missing newline
+fix typo in similarity index
+add note about atomic reference
+add jcenter to maven build script
+add event for generating views
+fix graphdb pom xml
+add subprojects to ignition list
+add a new line to gitignore
+fix plugin name in build.gradle
+fix typo in similarity index
+fix typo in similarity index
+add missing file mode example
+fix some lint errors
+add support for disabled context menu
+fix gitblit artifact name
+add missing file mode
+fix typo in config. yml
+add missing line breaks
+update pom to include jackson jaxrs
+fix return_to in session
+fix the binary file
+add structure to build.xml
+update dependencies for build
+add missing file mode
+fix pom xml
+fix mypy errors in pom.xml
+fix layout in mojave
+add missing file mode
+add missing pom tag
+add zeppelin to pom
+add snapshot to version list
+add missing file mode
+fix typo in travis.yml
+fix the xml syntax error
+update package.json with dev dependencies
+add a missing word to the readme.txt
+fix typo in similarity index
+fix import order
+add missing jdk
+fix typo in mmm/fml
+fix redstone energy
+add help for daemon
+fix pmd print
+fix bug in sqlserver
+update version in ext
+remove obsolete gitignore
+update build.gradle to 2.7.7
+remove unused gitignore
+update hgtags range
+fix new mode
+update binary files
+fix lint error
+fix the pom pom xml
+remove unnecessary useclasscycles
+fix pool.java documentation
+fix typo in test
+add missing changelog entries
+remove extra newline
+add a new image to the similarity index
+fix bug in viewpropertyanimator
+add missing headers
+add missing group to build.gradle
+fix missing layout
+add missing period
+fix the pom xml for the new master
+update build.gradle javadoc
+add storm to changelog
+fix bug in bridgewindow.updatepointericon
+fix typo in signinactivity
+remove the wrong logo
+remove jcenter from build script
+update sirius build instructions
+fix modal example
+fix version number
+exclude files that are not needed
+fix bug in mapcollections
+add image to similarity index
+fix typo in ddmimpl
+fix package name
+add eol to gitattributes
+fix bug in relativelayout
+fix changelog entry
+fix bug in Groovyclassloader.getlastmodified()
+update travis installation instructions
+fix new mode
+add missing file mode
+fix binary files
+add missing tags
+fix travis language in mmm
+remove gitignore from the target directory
+fix travis tests
+update build.gradle for 1.0.1
+add missing file mode
+fix webview selection
+fix typo in version.sbt
+fix showcaseview for actionbar
+remove newline from jlanguagemodel
+remove extra whitespace
+add missing changelog entries
+fix typo in upcomingchanges.md
+fix the path to the wallpaper.jpg file
+fix typo in constructorcallexpression
+update version in version.txt
+add missing word
+update android default config
+add missing file mode
+fix x_tick position
+add commit method to countertransactionexecutor
+add missing newline
+remove dead code
+add static var to tostrayexample
+update changelog for 1.9.18
+add a todo for sessionsvn trimming
+add missing line
+add missing file mode
+fix pom xml
+fix typo in artsurfaceview
+add oss artifact to pom pom xml
+add missing file mode
+fix psurfacejogl support
+update checkstyle main
+fix image mode
+fix issue with localfilerequest
+fix jni check for audiosystem_setmastermute
+fix typo in test file
+update file mode
+fix build tag in opengrok-web pom.xml
+add xml document for android manifest
+add missing lines
+add missing file mode
+fix typo in travis. yml
+add missing file mode
+fix typo in layoutplugin
+fix minor issue in inputmethodmanagerservice
+fix lint error
+fix typo in similarity test
+fix example pom
+add missing newline at end of file
+update mmm for nbproject
+update pylint build instructions
+fix edit_box_dialog.xml for android
+add missing newlines
+add missing newline
+add redirect to edit/list view
+add note about all implementations
+fix changelog entry for  [ci skip]
+add theme to readme
+fix deleted file mode
+add missing line
+add missing file mode
+update binary files
+add missing spaces
+add internal model
+add missing file mode
+add sam pr
+fix bug in grails-test
+add missing newline at the end of the sbt version
+remove extra whitespace
+exclude files that are not needed
+fix checkstyle in pom.xml
+update travis.yml with new version
+add jdeferred pom
+add missing file mode
+fix typo in propertiesbaraddon
+update changelog for 1.24.3
+add missing newline at the end of version file
+add missing newlines
+add missing file mode
+fix issue with local folder
+fix pushnotificationmanager mssql
+add missing jetbrains
+add todo for storeappend
+fix lint errors
+fix the documentation for the indexer
+add missing line break
+fix eventtransformer warning
+remove unused variables
+add missing newline
+add server name to security.json
+add missing annotation
+fix new mode
+fix aapt cacheupdater
+add missing file mode
+fix broken javadoc in rebaseerrortoplevelbuild
+fix bundle name
+fix typo in dns_server.py
+add missing file
+add log level to sbt plugin
+add javadoc task
+add missing file mode
+add missing file mode
+update the properties
+fix failing test
+add license header
+update android default config
+add missing newline
+fix the issue with the antlr plugin version
+fix mouse position in gui
+add missing file mode
+fix pom xml syntax
+fix race condition in windowmanagerservice
+fix mindle to be more clearer
+add note about Eclipse to readme
+fix gl4 constants
+fix failing test
+fix empty pom manifest
+add storm definition
+remove the build directory
+update build instructions
+fix openfire permissions
+fix presto output symbol extraction
+add pom version to community
+update the version information
+fix percolation test output
+fix minor typo in build.gradle
+add missing file mode
+add app name to android manifest
+add missing newlines
+add missing commit
+add missing file mode
+fix bug in swipewipeflingadapterview
+fix typo in filterdef
+fix binary files
+add maven instructions for embeddedappandroid
+fix log4j tests
+add maxparallelforks to test
+update changelog for 1.9.22
+fix version number
+fix graphhopper example
+fix checkstyle violation
+remove duplicate gif
+add missing tag
+remove unique version from snapshot names
+fix changelog entry for
+fix aui tld in gitignore
+add slf4j logging to travis log4j
+add plugin to gradle build script
+add missing pom tag
+add missing changelog
+add missing file
+add missing newline
+fix bug in windowinsets
+fix typo in xbinder.java
+fix dialogbox blur
+add missing file
+add missing file mode
+fix minor typo in build.gradle
+fix bug in material_design_icon_generator.java
+fix lint error
+add more ctc members to the list of ctc members
+update version.gradle for new api
+fix typo in domainvalidator
+fix the pom xml for the server
+add missing pom xml tags
+fix image deletion
+add missing newline at end of file
+add configuration interface
+add storm-361 to changelog
+add language to travis yml
+add commit numbers
+fix typo in gitignore
+add missing elements
+fix gitignore comment
+fix empty pom.xml
+update dependencies for viewanimator
+add missing file mode
+fix doc for dbcursor.curr()
+add snapshot to version string
+add gitcommit to version file
+fix javadoc in package-info
+fix issue with svn 4.0
+add more info to local.properties
+fix incorrect alignment in readme
+fix lint errors
+remove the build directory
+update travis.yml with new android constants
+fix minor typo in mmm
+add missing sms config
+fix pom xml for 1.0.24
+add android version to travis.yml
+fix lint issues
+fix uuid example
+add missing file mode
+add missing change log
+fix lint errors
+fix changelog formatting
+add joda-time to pom
+add fix for
+add missing word to readme.txt
+fix checkstyle violation
+fix ajp header parsing
+fix proguard doc comment
+update binary files
+add differ to binary files
+fix typo in dummy commit text
+fix the xml indentation
+fix typo in test file
+add missing period
+fix indentation in jlanguagemeta rules
+add missing attributes
+add differ to binary files
+remove unnecessary newline
+fix proptypes for image
+add missing newline
+fix pom xml
+add a cancel_option to editor
+fix the css syntax error
+add missing file mode
+add missing file mode
+add missing newline
+fix warning in hwui
+fix typo in known issues.md
+add missing file
+fix fixgetgluecheckinactivity javadoc
+fix python 2.6 compatibility
+add missing file mode
+fix gitignore for openhabhome
+add missing text in changes.txt
+add missing file mode
+fix typo in mmm
+fix bug in termsstatsfacetbuilder
+add android test compile
+add missing file mode comment
+fix gitmodules link
+fix javadoc errors
+add boat to vehicle
+add a success message to the shell command
+fix notification type
+fix some lint errors
+fix changelog entry for 0.11.0
+fix failing test
+fix typo in asciidoc
+update the build instructions
+fix a typo in the list of commit plugins
+ignore unused files
+add missing mark
+fix typo in config general yml
+fix notification type
+fix progress bar on upload failure
+remove preview strategy from camera view
+fix lint error
+fix dropwizard documentation
+add missing fix
+add more firefox properties
+remove unneeded spaces
+fix the xml syntax error
+add missing file mode
+add missing newline
+add dependencies to build.gradle
+add missing file
+fix map construction test
+add missing file mode
+add missing newline at end of deleted file
+add missing newline at end of file
+remove trailing newline
+add missing file mode
+add missing testcase
+update the link source for the javadoc
+update build.gradle to 20.0.0
+fix typo in guardianproject
+fix version number for release
+remove empty list items
+update growlnotification.jar for macosx
+add test task to build.gradle
+fix lint error
+remove trailing newline
+add missing file mode
+fix changelog entry for 0.9.2 [ci skip]
+remove extra whitespace
+add self hosted stats event
+fix progress bar on page loading
+remove extra newline
+fix typo in spongecommon
+add missing alerts
+add missing file mode
+add missing template tags
+update android repositories
+add missing file mode
+add missing newline
+add missing newline
+remove unneeded newline
+fix chmod 777 for solaris packages
+add missing commit
+update new file mode
+remove unneeded newline
+fix travis language in travis.yml
+fix text display for model hints
+fix typo in similarity index
+add missing file mode
+add missing newline
+add missing version information
+add missing fileset attributes
+fix issue with inputdispatcher
+set default base.path to "share"
+fix navigator side width
+add missing export statements
+add missing file mode
+fix typo in spongecommon
+update version information
+fix bug in class generator verifier
+fix package setting
+add missing word to contributing to tachyon.md
+add differ to binary file
+fix typo in the javadoc
+fix changelog entry for storm
+fix binary files
+fix nokogiri error
+add missing file mode
+fix top bar
+fix typo in similarity index 100%
+add module list to pom pom. xml
+remove outdated target api
+remove extra newline
+update file mode
+add jdk to travis cache
+fix a bug in the weex textinput component
+reset density to 0
+fix the pom xml for performance tests
+add missing newline
+add guava to mmm
+add missing module
+add missing file mode
+add missing file
+add missing newline at end of file
+fix minor issue in telecomm
+fix typo in runtimeenvironment
+fix the pom xml for the compiler plugin
+add missing file mode
+add missing file
+add use_suspected variable to shell.py
+add missing words
+add build status to readme
+add missing file mode
+update pom xml
+fix lint error
+fix bug in lafmanager impl
+add library dependencies to build.sbt
+fix lint errors
+fix the xml syntax error
+fix typo in spongecommon
+add missing changelog entries
+add missing newline at end of file
+add missing pom element
+add missing words
+fix lint error
+update version.txt for jetty 8
+fix indentation in color chooser intention action
+fix wallpaperlayout issue
+fix shutdown method in esthreadpoolexecutor
+add missing newline
+fix typo in travis.yml
+add missing file mode
+update version information
+add line breaks to the script helloworld
+add test for parse_1m_cols
+add missing import
+fix memory leak in aeron-client
+add missing newline at end of file
+fix wrong checkboxui in platform-impl
+add missing file mode
+add missing newlines
+add portal to build.xml
+fix checkstyle violation
+update changelog for storm
+remove unnecessary gitignore
+fix banner left
+update build.gradle to latest
+add transitive flag to build.gradle
+add cookies to httpbrowser
+update appveyor.yml with new options
+fix typo in index.txt
+reset rs timer after wait timeout
+fix lint error
+add info about available versions
+remove extra whitespace
+add missing file mode
+add missing newlines
+set default values for properties
+add a step to build the jenkins
+update sonar pom xml
+remove extra newline at the end of log files
+add callback to pimg.loaded
+add missing file mode
+update version numbers
+remove extra gitignore
+add missing newline
+fix presto test
+update proguard instructions
+fix pom xml
+add missing line
+update install instructions
+add version to engine.io-client
+fix camel version in pom xml
+add missing newline
+fix incorrect comment
+update dependencies for quasar-kotlin
+add missing newline
+add missing build_shared_library
+fix javadoc error
+fix text preview
+add a step 3 of the compiler guide
+add missing binary file
+fix typo in dslv
+add missing file mode
+add missing head tag
+fix soft input mode
+fix bug in booktree.getsummary
+add missing file mode
+fix typo in deleted file mode list
+fix typo in mmm
+fix ie_dom.js warning
+fix camel version in pom xml
+fix package cycle
+fix apk generation in gdx-tests
+add android components to travis.yml
+update properties for pedrovgs
+add missing line
+add portal properties
+fix a test failure
+update binary files
+add missing file mode
+add description to gradle convention
+add missing newline
+add missing file mode
+fix tab_indicator layout in mmm
+fix typo in similarity index
+fix typo in similarity index
+fix version number
+add missing newline
+add missing copyright
+fix version number
+add a comment to the list of binary files
+update the prerelease version
+add missing pom tag
+add android.manifest.xml doc
+add missing newline at the end of version file
+add missing file mode
+update authors for new project
+fix presto database metadata
+add missing markdown
+add missing file mode
+fix typo in similarity index
+add missing imports
+add language to prolog
+add missing pom tag
+remove old item from cmakelists
+remove unneeded newline
+add missing newline
+fix the grammar error
+fix keyguard pinview
+fix typo in typeface
+add support for web number and email
+update package.json with new info
+add test for multiple compilation errors
+fix typo in travis.yml
+add missing newline
+add missing newline
+fix bug in disunitysettings
+update binary files
+add x86/libwebpbackport.so to the list
+add missing file mode
+add missing file mode
+fix version string
+add bootstrap script
+add missing file mode
+fix platformapimodules variable
+add missing spaces
+add missing file
+fix typo in mediabrowsercompat.java
+add missing semicolon
+add missing file
+add note about jars to readme
+fix typo in twitterrest.java
+fix typo in hibernate.rst
+add missing file mode
+add vendor style to web-browser-autoprefixer
+fix failing test
+fix typo in simpletextattributes
+exclude ymsg_network_v0_61.jar from build
+remove extra whitespace
+add a note to travisci_build.sh
+fix lint error
+add missing translation
+fix typo in cxdchunk.java
+fix failing test
+fix doc about options
+fix typo in PortletPreferencesimpltestutil.java
+fix component measures
+fix pom xml syntax
+update similarity index 98
+add a differ
+fix changelog entry for 1.0.11
+add missing file mode
+fix lint errors
+fix checkstyle violation
+add missing file mode
+add missing newline
+fix documentation for journal.default.display.view
+fix typo in h2o index.list
+add missing file mode
+add layout_aligntop to buttoncheckin
+update binary files
+add missing template
+add missing imports
+update file mode
+add missing word
+fix the margin of the metric histogram
+fix javadoc for mssql mssql mssql mssql mssql mssql mssql mssql mssql mssql mssql mssql mssql mssql mssql
+update version numbers
+fix typo in metricsevent
+fix max duration in repeatedraaptorprofilerouter
+fix version in gradle.properties
+fix beta version
+add github_token to gradle build
+add missing pom element
+fix aeron publication
+add missing line breaks
+add missing changelog entry
+fix layerbase.cpp for surfaceflinger
+delete all the persistent directories
+add a note about vanniktech support
+add missing file mode
+add missing newline
+fix layout in searchpoi_list
+fix typo in fragment_conversations_overview
+fix typo in readme
+add missing file mode
+add comment about shell script
+add missing newline at the end of the file
+fix pom xml syntax
+fix typo in moco-doc
+add install option to travis ci
+fix javadoc error
+add version.java to file mode
+remove unneeded newline
+add event.java to mmm
+update ec schema
+add testfailed to gotestconsoleproperties
+add missing file mode
+add missing newline
+fix failing test
+fix a minor typo
+fix typo in createsamplebinary method
+add note about phone number
+update version list
+add missing file mode
+add missing file mode
+add geturladd to the portleturlset
+update version.gradle for ext
+fix test_rf_syn_gz_cat test failure
+add missing commit
+fix typo in cliff_walking_1.xml
+fix binary files
+add missing file mode
+fix lint errors
+fix wrong artifact id in pom.xml
+fix memory leak in accessibilityevent
+add missing file mode
+add project to build.xml
+add missing newline
+add margin to notebook
+fix minor typo in readme
+fix libcivil.so diff
+fix tilebuildcraft calculation
+add missing newline
+update the version for the plugin
+remove trailing newline
+fix jooq pom xml tag
+add missing file mode
+fix bug in preferencefragment
+add missing pom tag
+remove settingsappmode button
+add missing file mode
+fix version_code in gradle.properties
+add shape2d.collision method
+add 1.0.3 to changelog.md
+fix jet warnings
+fix the path to the differ.jar
+fix tilemachines power request
+fix typo in uploadrequestimpl
+add missing file mode
+update version in project.ext
+add test for
+fix bug in baseobj
+fix typo in mmm documentation
+fix bug in exittransitioncoordinator
+fix typo in testgroupings.gradle
+add missing word
+add missing file mode
+remove extra build from travis build
+fix hardware renderer
+update plugin description
+remove obsolete deleted file
+fix changelog entry for 2.0.0
+fix version in gradle.properties
+update travis language
+update yuicompressor.yicf to 1.0d
+fix typo in bundle.js
+add instrumentation test runner to androidmanifest.xml
+fix binary files
+fix typo in junit extension
+fix indentation in console.txt
+fix lint error
+add missing file mode
+fix mpr tag in pom.xml
+fix bug in viewpropertyanimator
+fix typo in cucumber-features list
+fix new mode
+add a line break
+fix bug in Gammafontrenderer.clear
+add surface to purgatory list
+fix error in localpropertytest
+fix issue with rewrite rules
+fix minor typo in hgtags
+fix pom xml
+fix documentation for pr
+add missing file mode
+fix failing test
+add missing file mode
+remove extra.mmm
+add comment to fetchidea.sh
+add missing file mode
+update install_mongodb.sh instructions
+add missing file mode
+fix bug in contextimpl
+add missing file mode
+update similarity example
+update build.xml with new build options
+remove extraneous whitespace
+update build.gradle to appcompat-v7
+remove unused gitignore
+fix h2o documentation
+add missing dependency in pom.xml
+fix issue with k9.java
+fix typo in settingsactivity.java
+fix race condition in coyote/http11protocol
+add missing change
+add a missing period
+add pronouns for gmx
+fix bazel test failure
+update version numbers
+add missing newline
+fix the pom xml for the kernel
+add snapshot to version string
+fix color picker commit
+add missing image
+fix the prerelease tag
+add missing line
+fix binary files
+fix routinghelper example
+fix broken image
+update dependencies for plugin converters
+add missing newline
+add missing dot
+add security.manager to pom
+fix typo in similarity index
+add missing labels
+add missing file mode
+add missing random long
+add missing line breaks
+add test for datastructures
+add blogcodes to gradle
+fix issue with http11processor
+remove extra newline
+add todo for
+add jetty jetty jar
+add missing dependencies
+add missing setting for enable_metrics_collection
+fix cs error
+remove empty lines
+add missing file mode
+add missing dependencies
+add missing file mode
+add missing lines
+update version in version.txt
+add empty line after pr
+fix a small typo
+fix asyncquerybatchcursorspecification typo
+fix travis config
+fix documentation for x86
+fix schemagen schemagen test name
+fix apktool test case
+add missing newline
+fix the error in dynamic_select.js
+fix typo in similarity index
+update the build instructions
+fix race condition in communicationprotocol
+fix changelog entry for 0.9.3
+add java to java_list
+add missing file mode
+update version strings
+fix layout issue
+fix embedded examples
+add link to markdown page
+fix junit build xml
+add a message to the subscription list
+add junit to parceler pom
+add missing file mode
+fix a typo in build.gradle
+fix build number for build.gradle
+fix typo in readme
+remove monitor thread from blackbox
+fix spellchecker doc
+fix minor typos in required_gen_version
+fix error in h2o-r package
+fix javadoc error
+fix badspecification in test
+send goaway message to http2
+fix lint error
+add missing information to travis matrix
+add missing file modes
+fix visibility info
+add missing header
+add build.xml for build.sh
+add missing file mode
+fix pom xml
+add missing line
+add missing pom tag
+fix signingconfig example
+fix typo in gradle subprojects
+add annotation for singledatasegmentannouncer
+add missing file mode
+update version to 1.0-rc1-snapshot
+fix typo in zlibrary/mainwindowutil.java
+fix documentation for numberprogressbar
+fix git push issue
+fix documentation for readercardtype enum
+update image sizes
+add a note about removing color
+add android version to gradle build
+add clirr format to build.gradle
+add missing properties
+add missing file mode
+add missing line breaks
+fix initialization of websocket connection
+add missing file mode
+add missing file mode
+add missing include tag
+add missing file mode
+add error message to login.jsp
+fix binary file name
+add snapshot to version list
+fix lint error
+add missing file mode
+add include statements
+fix groovy version in mmm
+fix lint error
+fix typo in travis run tests
+add platformimplementationmodules property
+fix a typo in filedisplayactivity.java
+update old_history file
+fix changelog entry for 0.11.0
+add missing file mode
+add device profile
+add missing newline at end of file
+update travis build info
+fix sonatype password in gradle mmm
+add missing newline at end of file
+add database to liquibase
+remove extra newline
+update support13demos mmm
+add svm_print_interface example
+fix jni warning in audiosystem
+add missing file mode
+fix version in hdrhistogram pom
+fix typo in stoptype.java
+fix version number
+fix lint errors
+fix image view background
+fix typo in similarity index
+update documentation to use new api
+fix apktool binary files
+add comment to mapdb
+update travis script
+fix pydbd.havealivethreads() bug
+add bundle symbolicname
+fix warnings in codestyleimportspanel
+fix minor typo in build.gradle
+add missing services
+add todo for querydsl
+fix race condition in persistentenumerator
+fix lint errors
+add some more information to the example
+add missing file mode
+update version info
+update shelvescollection on project opened/closed
+fix typo in similarity index
+add missing file mode
+update install command
+fix the problem with gradle distribution
+fix typo in spongecommon
+fix yellowbox display
+add missing newline
+add note about plugin add
+fix typo in gitignore
+fix typo in sql.properties
+add instrumenttest to build.gradle
+add kramdown for new release versions
+fix typo in test_c9_fvec.py
+fix typo in travis.yml
+fix memory leak
+add missing changelog entries
+update the properties
+add faqs to readme
+add missing newline at end of file
+fix some typos
+fix lint error
+fix typo in r_android_library
+add missing file mode
+update version.txt in mmm
+add plugin name to repositories
+fix version in gradle.properties
+fix gitignore syntax
+add jest support to package.json
+update version in project.ext

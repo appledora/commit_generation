@@ -59,7 +59,6 @@ test_diffs, test_commit_messages = read_data("cleaned.test")
 test_examples = read_examples(test_diffs, test_commit_messages)
 print(len(test_commit_messages))
 outfile = open(os.path.join(OUTPUT_DIR, "predictions.txt"), "w")
-goldfile = open(os.path.join(OUTPUT_DIR, "gold.txt"), "w")
 for example in test_examples:
     input_text = example.source
     target_text = example.target
