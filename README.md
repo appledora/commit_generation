@@ -45,8 +45,9 @@ The results of the project are summarized in the following table:
 |                          | **BLEU-4** | **Rouge-L** |
 |--------------------------|------------|-------------|
 | **Baseline**       | 16.41      | 26.93       |
-| **Seq2Seq**              |            |             |
-| **Transfer Learning**    | 11.77      | 15          |
+| **Seq2Seq**              |   15         |         15    |
+| **Transfer Learning**    | 15.08      | 18.23         |
+| **Zero-shot Inference** | 7.5 | 13.67 |
 
 
 ## Authors
